@@ -248,11 +248,14 @@ nav{
     justify-content: space-between;
 }
 .links{
+    display: flex;
     width: 33%;
     height:100%;
-    display: flex;
     gap: 5%;
-    cursor: pointer;
+}
+a{
+    width: 10%;
+    height:80%;     
 }
 .more{
     height: 100%;
