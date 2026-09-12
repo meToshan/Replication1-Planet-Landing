@@ -148,16 +148,17 @@ nav{
 }
 #right{
     margin-top: 2%;
-    width: 22%;
+    width: 17%;
     height: 90%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: end;
+    margin-right: 3%;
     gap: 4%;
 }
 .choose{
-    width: 55%;
+    width: 70%;
     height: 7%;
     display: flex;
     justify-content: center;
@@ -168,7 +169,7 @@ nav{
     font-size: 22px;
 }
 .color{
-    width: 55%;
+    width: 70%;
     height: 11%;
     display: flex;
     justify-content: center;
@@ -201,7 +202,7 @@ nav{
     cursor: pointer;
 }
 .size{
-    width: 55%;
+    width: 70%;
     height: 11%;
     display: flex;
     justify-content: center;
